@@ -1,5 +1,4 @@
 "use client";
-
 import { isRedirectError } from "next/dist/client/components/redirect";
 import { sendVerificationCode } from "./actions.server";
 
